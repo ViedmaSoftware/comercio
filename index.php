@@ -1,4 +1,5 @@
 <?php
+//comentario de serito
 //este es mi comentario
 // change the following paths if necessary
 $yii=dirname(__FILE__).'/../yii/framework/yii.php';
